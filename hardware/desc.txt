@@ -1,0 +1,5 @@
+There is no PCB - there are used EBAY L293 module, EBAY TQFT to 2.54mm and EBAY Bluetooth module connected together by wires
+
+http://www.ebay.com/itm/201106398530?_trksid=p2060353.m1438.l2649&ssPageName=STRK%3AMEBIDX%3AIT
+http://www.ebay.com/itm/201195029032?_trksid=p2060353.m1438.l2649&ssPageName=STRK%3AMEBIDX%3AIT
+http://www.ebay.com/itm/400826479408?_trksid=p2060353.m1438.l2649&ssPageName=STRK%3AMEBIDX%3AIT
